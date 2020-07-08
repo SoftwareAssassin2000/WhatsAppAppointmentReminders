@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Users]
+(
+	[UserId] BIGINT NOT NULL PRIMARY KEY IDENTITY(1,1), 
+    [FirstName] NVARCHAR(25) NOT NULL, 
+    [SunshineUserId] NVARCHAR(50) NOT NULL
+)

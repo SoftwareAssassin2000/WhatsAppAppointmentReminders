@@ -1,0 +1,9 @@
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.Model\bin\Debug\netcoreapp3.1\AppointmentReminders.Model.deps.json
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.Model\bin\Debug\netcoreapp3.1\AppointmentReminders.Model.dll
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.Model\bin\Debug\netcoreapp3.1\AppointmentReminders.Model.pdb
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.Model\obj\Debug\netcoreapp3.1\AppointmentReminders.Model.csprojAssemblyReference.cache
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.Model\obj\Debug\netcoreapp3.1\AppointmentReminders.Model.AssemblyInfoInputs.cache
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.Model\obj\Debug\netcoreapp3.1\AppointmentReminders.Model.AssemblyInfo.cs
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.Model\obj\Debug\netcoreapp3.1\AppointmentReminders.Model.csproj.CoreCompileInputs.cache
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.Model\obj\Debug\netcoreapp3.1\AppointmentReminders.Model.dll
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.Model\obj\Debug\netcoreapp3.1\AppointmentReminders.Model.pdb

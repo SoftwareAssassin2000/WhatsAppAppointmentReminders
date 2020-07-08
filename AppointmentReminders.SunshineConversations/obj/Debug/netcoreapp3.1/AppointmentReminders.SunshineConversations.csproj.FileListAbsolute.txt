@@ -1,0 +1,12 @@
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.SunshineConversations\bin\Debug\netcoreapp3.1\AppointmentReminders.SunshineConversations.deps.json
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.SunshineConversations\bin\Debug\netcoreapp3.1\AppointmentReminders.SunshineConversations.dll
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.SunshineConversations\bin\Debug\netcoreapp3.1\AppointmentReminders.Model.dll
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.SunshineConversations\bin\Debug\netcoreapp3.1\AppointmentReminders.Model.pdb
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.SunshineConversations\obj\Debug\netcoreapp3.1\AppointmentReminders.SunshineConversations.csprojAssemblyReference.cache
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.SunshineConversations\obj\Debug\netcoreapp3.1\AppointmentReminders.SunshineConversations.AssemblyInfoInputs.cache
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.SunshineConversations\obj\Debug\netcoreapp3.1\AppointmentReminders.SunshineConversations.AssemblyInfo.cs
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.SunshineConversations\obj\Debug\netcoreapp3.1\AppointmentReminders.SunshineConversations.csproj.CopyComplete
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.SunshineConversations\bin\Debug\netcoreapp3.1\AppointmentReminders.SunshineConversations.pdb
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.SunshineConversations\obj\Debug\netcoreapp3.1\AppointmentReminders.SunshineConversations.csproj.CoreCompileInputs.cache
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.SunshineConversations\obj\Debug\netcoreapp3.1\AppointmentReminders.SunshineConversations.dll
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.SunshineConversations\obj\Debug\netcoreapp3.1\AppointmentReminders.SunshineConversations.pdb

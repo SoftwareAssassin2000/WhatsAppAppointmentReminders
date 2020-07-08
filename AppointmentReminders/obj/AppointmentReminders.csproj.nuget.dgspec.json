@@ -1,0 +1,347 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders\\AppointmentReminders.csproj": {}
+  },
+  "projects": {
+    "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders.BusinessLogic\\AppointmentReminders.BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders.BusinessLogic\\AppointmentReminders.BusinessLogic.csproj",
+        "projectName": "AppointmentReminders.BusinessLogic",
+        "projectPath": "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders.BusinessLogic\\AppointmentReminders.BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\Softw\\.nuget\\packages\\",
+        "outputPath": "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders.BusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Softw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders.DataAccess\\AppointmentReminders.DataAccess.csproj": {
+                "projectPath": "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders.DataAccess\\AppointmentReminders.DataAccess.csproj"
+              },
+              "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders.Model\\AppointmentReminders.Model.csproj": {
+                "projectPath": "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders.Model\\AppointmentReminders.Model.csproj"
+              },
+              "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders.SunshineConversations\\AppointmentReminders.SunshineConversations.csproj": {
+                "projectPath": "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders.SunshineConversations\\AppointmentReminders.SunshineConversations.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders.DataAccess\\AppointmentReminders.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders.DataAccess\\AppointmentReminders.DataAccess.csproj",
+        "projectName": "AppointmentReminders.DataAccess",
+        "projectPath": "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders.DataAccess\\AppointmentReminders.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Softw\\.nuget\\packages\\",
+        "outputPath": "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Softw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders.Model\\AppointmentReminders.Model.csproj": {
+                "projectPath": "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders.Model\\AppointmentReminders.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders.Model\\AppointmentReminders.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders.Model\\AppointmentReminders.Model.csproj",
+        "projectName": "AppointmentReminders.Model",
+        "projectPath": "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders.Model\\AppointmentReminders.Model.csproj",
+        "packagesPath": "C:\\Users\\Softw\\.nuget\\packages\\",
+        "outputPath": "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Softw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders.SunshineConversations\\AppointmentReminders.SunshineConversations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders.SunshineConversations\\AppointmentReminders.SunshineConversations.csproj",
+        "projectName": "AppointmentReminders.SunshineConversations",
+        "projectPath": "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders.SunshineConversations\\AppointmentReminders.SunshineConversations.csproj",
+        "packagesPath": "C:\\Users\\Softw\\.nuget\\packages\\",
+        "outputPath": "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders.SunshineConversations\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Softw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders.Model\\AppointmentReminders.Model.csproj": {
+                "projectPath": "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders.Model\\AppointmentReminders.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders\\AppointmentReminders.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders\\AppointmentReminders.csproj",
+        "projectName": "AppointmentReminders",
+        "projectPath": "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders\\AppointmentReminders.csproj",
+        "packagesPath": "C:\\Users\\Softw\\.nuget\\packages\\",
+        "outputPath": "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Softw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders.BusinessLogic\\AppointmentReminders.BusinessLogic.csproj": {
+                "projectPath": "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders.BusinessLogic\\AppointmentReminders.BusinessLogic.csproj"
+              },
+              "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders.Model\\AppointmentReminders.Model.csproj": {
+                "projectPath": "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders.Model\\AppointmentReminders.Model.csproj"
+              },
+              "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders.SunshineConversations\\AppointmentReminders.SunshineConversations.csproj": {
+                "projectPath": "D:\\src\\ZE\\Article1\\AppointmentReminders\\AppointmentReminders.SunshineConversations\\AppointmentReminders.SunshineConversations.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AppointmentReminders.DataAccess\AppointmentReminders.DataAccess.csproj" />
+    <ProjectReference Include="..\AppointmentReminders.Model\AppointmentReminders.Model.csproj" />
+    <ProjectReference Include="..\AppointmentReminders.SunshineConversations\AppointmentReminders.SunshineConversations.csproj" />
+  </ItemGroup>
+
+</Project>

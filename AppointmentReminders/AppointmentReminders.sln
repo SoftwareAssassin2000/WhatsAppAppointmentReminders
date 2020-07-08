@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppointmentReminders", "AppointmentReminders.csproj", "{D3AD7A90-6A0B-4D3C-AC2B-FC2D9B61A25F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppointmentReminders.BusinessLogic", "..\AppointmentReminders.BusinessLogic\AppointmentReminders.BusinessLogic.csproj", "{BCE877E9-E689-44A3-A122-48B7B52820ED}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppointmentReminders.DataAccess", "..\AppointmentReminders.DataAccess\AppointmentReminders.DataAccess.csproj", "{16C0657B-AF66-4B20-9766-93737CA8F1D9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppointmentReminders.Model", "..\AppointmentReminders.Model\AppointmentReminders.Model.csproj", "{F1731C46-E0D6-4CA0-8B03-CF401A16C08E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppointmentReminders.SunshineConversations", "..\AppointmentReminders.SunshineConversations\AppointmentReminders.SunshineConversations.csproj", "{1B6DE8A3-23AB-477F-B717-635D5D5953DF}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "AppointmentReminders.Database", "..\AppointmentReminders.Database\AppointmentReminders.Database.sqlproj", "{10CA5A2D-9C84-4DAD-9233-D8ADE5288C6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3AD7A90-6A0B-4D3C-AC2B-FC2D9B61A25F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3AD7A90-6A0B-4D3C-AC2B-FC2D9B61A25F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3AD7A90-6A0B-4D3C-AC2B-FC2D9B61A25F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3AD7A90-6A0B-4D3C-AC2B-FC2D9B61A25F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCE877E9-E689-44A3-A122-48B7B52820ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE877E9-E689-44A3-A122-48B7B52820ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE877E9-E689-44A3-A122-48B7B52820ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE877E9-E689-44A3-A122-48B7B52820ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16C0657B-AF66-4B20-9766-93737CA8F1D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16C0657B-AF66-4B20-9766-93737CA8F1D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16C0657B-AF66-4B20-9766-93737CA8F1D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16C0657B-AF66-4B20-9766-93737CA8F1D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1731C46-E0D6-4CA0-8B03-CF401A16C08E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1731C46-E0D6-4CA0-8B03-CF401A16C08E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1731C46-E0D6-4CA0-8B03-CF401A16C08E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1731C46-E0D6-4CA0-8B03-CF401A16C08E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B6DE8A3-23AB-477F-B717-635D5D5953DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6DE8A3-23AB-477F-B717-635D5D5953DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6DE8A3-23AB-477F-B717-635D5D5953DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6DE8A3-23AB-477F-B717-635D5D5953DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10CA5A2D-9C84-4DAD-9233-D8ADE5288C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10CA5A2D-9C84-4DAD-9233-D8ADE5288C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10CA5A2D-9C84-4DAD-9233-D8ADE5288C6A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{10CA5A2D-9C84-4DAD-9233-D8ADE5288C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10CA5A2D-9C84-4DAD-9233-D8ADE5288C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10CA5A2D-9C84-4DAD-9233-D8ADE5288C6A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4652790A-C09A-484D-80B3-89DE51B3DF26}
+	EndGlobalSection
+EndGlobal

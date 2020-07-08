@@ -1,0 +1,16 @@
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.BusinessLogic\obj\Debug\netcoreapp3.1\AppointmentReminders.BusinessLogic.csprojAssemblyReference.cache
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.BusinessLogic\obj\Debug\netcoreapp3.1\AppointmentReminders.BusinessLogic.AssemblyInfoInputs.cache
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.BusinessLogic\obj\Debug\netcoreapp3.1\AppointmentReminders.BusinessLogic.AssemblyInfo.cs
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.BusinessLogic\obj\Debug\netcoreapp3.1\AppointmentReminders.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.BusinessLogic\bin\Debug\netcoreapp3.1\AppointmentReminders.BusinessLogic.deps.json
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.BusinessLogic\bin\Debug\netcoreapp3.1\AppointmentReminders.BusinessLogic.dll
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.BusinessLogic\bin\Debug\netcoreapp3.1\AppointmentReminders.BusinessLogic.pdb
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.BusinessLogic\bin\Debug\netcoreapp3.1\AppointmentReminders.DataAccess.dll
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.BusinessLogic\bin\Debug\netcoreapp3.1\AppointmentReminders.Model.dll
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.BusinessLogic\bin\Debug\netcoreapp3.1\AppointmentReminders.DataAccess.pdb
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.BusinessLogic\bin\Debug\netcoreapp3.1\AppointmentReminders.Model.pdb
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.BusinessLogic\obj\Debug\netcoreapp3.1\AppointmentReminders.BusinessLogic.csproj.CopyComplete
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.BusinessLogic\obj\Debug\netcoreapp3.1\AppointmentReminders.BusinessLogic.dll
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.BusinessLogic\obj\Debug\netcoreapp3.1\AppointmentReminders.BusinessLogic.pdb
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.BusinessLogic\bin\Debug\netcoreapp3.1\AppointmentReminders.SunshineConversations.dll
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.BusinessLogic\bin\Debug\netcoreapp3.1\AppointmentReminders.SunshineConversations.pdb

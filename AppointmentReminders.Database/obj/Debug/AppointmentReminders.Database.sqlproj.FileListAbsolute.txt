@@ -1,0 +1,6 @@
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.Database\bin\Debug\AppointmentReminders.Database.dacpac
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.Database\bin\Debug\AppointmentReminders.Database.dll
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.Database\bin\Debug\AppointmentReminders.Database.pdb
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.Database\obj\Debug\AppointmentReminders.Database.sqlprojAssemblyReference.cache
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.Database\obj\Debug\AppointmentReminders.Database.dll
+D:\src\ZE\Article1\AppointmentReminders\AppointmentReminders.Database\obj\Debug\AppointmentReminders.Database.pdb
