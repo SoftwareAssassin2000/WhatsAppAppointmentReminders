@@ -11,3 +11,4 @@ namespace AppointmentReminders.DataAccess
 		void MarkNotificationAsSent(Appointment input);
 	}
 }
+WhatsAppAppointmentReminders/AppointmentReminders.BusinessLogic/AppointmentManager.cs
